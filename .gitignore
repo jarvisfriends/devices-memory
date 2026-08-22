@@ -1,0 +1,43 @@
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+bin/
+dist/
+
+# Test artifacts
+*.test
+*.out
+*.prof
+*.pprof
+*.coverprofile
+coverage
+coverage.*
+profile.cov
+
+# Dependency directories
+vendor/
+
+# Go workspace files
+go.work
+go.work.sum
+
+# Editor/IDE
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local scratch
+tmp/
+.env
+.env.*
+!.env.example
+*.log
+*.code-workspace
