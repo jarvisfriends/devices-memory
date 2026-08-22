@@ -18,8 +18,8 @@ unprivileged run reports that as a gap rather than an empty machine.
 $ devices-memory
 $ devices-memory --level detailed
 $ devices-memory --every 0.5 --json
-$ devices-memory --tui
-$ devices-memory --web :8080
+$ devices-memory tui
+$ devices-memory web :8080
 ```
 
 MIT — see [LICENSE](LICENSE).
