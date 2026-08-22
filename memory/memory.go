@@ -19,7 +19,7 @@ import (
 	"github.com/jaypipes/ghw"
 	gmem "github.com/shirou/gopsutil/v4/mem"
 
-	devices "github.com/jarvisfriends/devices-common"
+	"github.com/jarvisfriends/devices-common/devices"
 )
 
 // Collector implements devices.Collector for the memory category.

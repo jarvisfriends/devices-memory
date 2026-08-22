@@ -11,7 +11,7 @@ import (
 	"github.com/jarvisfriends/devices-common/cli"
 	"github.com/jarvisfriends/devices-common/tui"
 
-	memory "github.com/jarvisfriends/devices-memory"
+	"github.com/jarvisfriends/devices-memory/memory"
 )
 
 // version is stamped by goreleaser via -ldflags "-X main.version=...".

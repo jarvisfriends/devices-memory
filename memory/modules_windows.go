@@ -12,7 +12,7 @@ import (
 
 	"github.com/yusufpapurcu/wmi"
 
-	devices "github.com/jarvisfriends/devices-common"
+	"github.com/jarvisfriends/devices-common/devices"
 )
 
 // win32PhysicalMemory is the WMI class shape for one installed DIMM.

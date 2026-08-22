@@ -3,7 +3,7 @@ module github.com/jarvisfriends/devices-memory
 go 1.27.0
 
 require (
-	github.com/jarvisfriends/devices-common v0.2.0
+	github.com/jarvisfriends/devices-common v0.3.0
 	github.com/jaypipes/ghw v0.25.0
 	github.com/shirou/gopsutil/v4 v4.26.7
 	github.com/yusufpapurcu/wmi v1.2.4

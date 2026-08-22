@@ -7,7 +7,7 @@ import (
 	"context"
 	"testing"
 
-	devices "github.com/jarvisfriends/devices-common"
+	"github.com/jarvisfriends/devices-common/devices"
 )
 
 func TestCategory(t *testing.T) {

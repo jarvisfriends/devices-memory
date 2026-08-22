@@ -12,7 +12,7 @@ import (
 
 	"github.com/jaypipes/ghw"
 
-	devices "github.com/jarvisfriends/devices-common"
+	"github.com/jarvisfriends/devices-common/devices"
 )
 
 // collectModules asks ghw for the DIMM inventory. On Linux the DMI tables
